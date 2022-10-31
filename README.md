@@ -6,7 +6,7 @@
 ![Z8 Prototype](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1497.jpeg)  
 ブレッドボード試作
 
-電脳伝説さん(@vintagechips)のEMUZ80が出力するZ80 CPU信号をメザニンボードで組み替えたZ8を動作させることができます。  
+電脳伝説さん(@vintagechips)のEMUZ80が出力するZ80 CPU信号をメザニンボードで組み替えてZ8を動作させることができます。  
 Z8とPIC18F47Q43の組み合わせで動作確認しています。
 
 動作確認で使用したCPU
