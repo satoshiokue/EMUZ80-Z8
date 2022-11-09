@@ -1,10 +1,13 @@
 # EMUZ80-Z8
 
+![Z8 Prototype3](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1552.jpeg)  
+試作基板  
+
 ![Z8 Prototype2](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1499.jpeg)  
-ブレッドボード試作 シリアル通信試行
+ブレッドボード試作 シリアル通信試行  
 
 ![Z8 Prototype](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1497.jpeg)  
-ブレッドボード試作
+ブレッドボード試作  
 
 電脳伝説さん(@vintagechips)のEMUZ80が出力するZ80 CPU信号をメザニンボードで組み替え、Z8を動作させることができます。  
 Z8とPIC18F47Q43の組み合わせで動作確認しています。
