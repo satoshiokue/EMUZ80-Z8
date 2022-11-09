@@ -48,6 +48,19 @@ NMOSのZ8はアドレスバスA15-A8は「入力ポート・ハイインピー�
 xxd -i -c16 foo.bin > foo.txt
 ```
 
+## Universal Monitor Z8 の移植について
+
+レジスタ0xF8で"Extended External Memory Cycle"を有効にします。00H -> 20H  
+ボーレートの係数を変更します。6 -> 2  
+
+```
+config.inc
+
+P01M_V: EQU 20H   ; Port 0 and 1 Mode Register
+
+SDIV1:  EQU 2     ; PRE0  1-64 (0 means 64)
+```
+
 ## 謝辞
 思い入れのあるCPUを動かすことのできるシンプルで美しいEMUZ80を開発された電脳伝説さんに感謝いたします。
 
