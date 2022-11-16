@@ -1,7 +1,10 @@
 # EMUZ80-Z8
 
-![Z8 Prototype3](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1552.jpeg)  
-試作基板  
+![Z8](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1597.jpeg)  
+MEZZ8  
+
+![Z8 LED](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1601.jpeg)  
+Port2 Lチカ   
 
 ![Z8 Prototype2](https://github.com/satoshiokue/EMUZ80-Z8/blob/main/imgs/IMG_1499.jpeg)  
 ブレッドボード試作 シリアル通信試行  
