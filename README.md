@@ -24,7 +24,10 @@ Z8681PS
 https://drive.google.com/drive/folders/1NaIIpzsUY3lptekcrJjwyvWTBNHIjUf1
 
 ## メザニンボード
-https://github.com/satoshiokue/MEZZ8
+https://github.com/satoshiokue/MEZZ8  
+
+MEZZ8専用プリント基板  
+https://store.shopping.yahoo.co.jp/orangepicoshop/pico-a-063.html
 
 ## 回路図
 https://github.com/satoshiokue/MEZZ8/blob/main/MEZZ8.pdf
