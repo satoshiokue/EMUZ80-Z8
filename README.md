@@ -76,6 +76,27 @@ P01M_V: EQU 20H   ; Port 0 and 1 Mode Register
 SDIV1:  EQU 2     ; PRE0  1-64 (0 means 64)
 ```
 
+## Z8 NASCOM BASIC
+
+EMUZ80のシリアルポートが有効  
+9600bps 8bit non parity 1 stop bit  
+RAM 4KB  
+emuz8bas_1.8MHz_Q43.hex  
+emuz8bas_1.8MHz_Q8x.hex
+
+MEZZ8のシリアルポートが有効  
+9600bps 8bit non parity 1 stop bit  
+RAM 4KB  
+emuz8bas_1.8MHz_uart_Q43.hex  
+emuz8bas_1.8MHz_uart_Q8x.hex  
+
+```
+ROM  0x0000 - 0x7FFF
+RAM  0x8000 - 0x8FFF
+```
+
+https://github.com/satoshiokue/Z8_NASCOM_BASIC
+
 ## 謝辞
 思い入れのあるCPUを動かすことのできるシンプルで美しいEMUZ80を開発された電脳伝説さんに感謝いたします。
 
