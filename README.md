@@ -87,8 +87,8 @@ emuz8bas_1.8MHz_Q8x.hex
 MEZZ8のシリアルポートが有効  
 9600bps 8bit non parity 1 stop bit  
 RAM 4KB  
-emuz8bas_1.8MHz_uart_Q43.hex  
-emuz8bas_1.8MHz_uart_Q8x.hex  
+emuz8bas_1.2288MHz_uart_Q43.hex  
+emuz8bas_1.2288MHz_uart_Q8x.hex  
 
 ```
 ROM  0x0000 - 0x7FFF
